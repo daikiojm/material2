@@ -24,6 +24,7 @@ export * from '@angular/material/chips';
 export * from '@angular/material/core';
 export * from '@angular/material/datepicker';
 export * from '@angular/material/dialog';
+export * from '@angular/material/_dialog';
 export * from '@angular/material/expansion';
 export * from '@angular/material/form-field';
 export * from '@angular/material/grid-list';
